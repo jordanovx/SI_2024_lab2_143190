@@ -1,2 +1,2 @@
 # SI_2024_lab2_143190
-SI Lab2 143190
+Hristijan Jordanov 143190
